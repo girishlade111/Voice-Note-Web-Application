@@ -1,0 +1,2 @@
+Microphone → Speech Recognition → Local Processing → IndexedDB
+(No external network calls)
